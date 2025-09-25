@@ -1,0 +1,151 @@
+Date,Project_ID,Phase,Material,Quantity_Used,Quantity_Required,Material_Category
+2025-05-01,P001,Foundation,Cement,1465,1720,Foundation
+2025-05-02,P001,Foundation,Cement,1547,1902,Foundation
+2025-05-03,P001,Foundation,Cement,570,997,Foundation
+2025-05-04,P001,Foundation,Cement,636,964,Foundation
+2025-05-05,P001,Foundation,Cement,1759,2229,Foundation
+2025-05-06,P001,Foundation,Steel Rods,1331,1470,Foundation
+2025-05-07,P001,Foundation,Steel Rods,529,730,Foundation
+2025-05-08,P001,Foundation,Steel Rods,906,1078,Foundation
+2025-05-09,P001,Foundation,Steel Rods,1075,1518,Foundation
+2025-05-10,P001,Foundation,Steel Rods,522,850,Foundation
+2025-05-11,P001,Structure,Cement,1693,2123,Structure
+2025-05-12,P001,Structure,Cement,1052,1202,Structure
+2025-05-13,P001,Structure,Cement,1939,2296,Structure
+2025-05-14,P001,Structure,Cement,847,995,Structure
+2025-05-15,P001,Structure,Cement,1940,2282,Structure
+2025-05-16,P001,Structure,Steel Beams,1745,2092,Structure
+2025-05-17,P001,Structure,Steel Beams,835,1172,Structure
+2025-05-18,P001,Structure,Steel Beams,1706,1882,Structure
+2025-05-19,P001,Structure,Steel Beams,1272,1650,Structure
+2025-05-20,P001,Structure,Steel Beams,748,1064,Structure
+2025-05-21,P001,Walls,Bricks,1315,1623,Walls
+2025-05-22,P001,Walls,Bricks,955,1082,Walls
+2025-05-23,P001,Walls,Bricks,1041,1397,Walls
+2025-05-24,P001,Walls,Bricks,1993,2441,Walls
+2025-05-25,P001,Walls,Bricks,573,703,Walls
+2025-05-26,P001,Walls,Plaster,1403,1697,Walls
+2025-05-27,P001,Walls,Plaster,1514,1814,Walls
+2025-05-28,P001,Walls,Plaster,1367,1866,Walls
+2025-05-29,P001,Walls,Plaster,1550,1707,Walls
+2025-05-30,P001,Walls,Plaster,1015,1333,Walls
+2025-05-31,P001,Windows,Glass Panels,909,1212,Windows
+2025-06-01,P001,Windows,Glass Panels,1183,1455,Windows
+2025-06-02,P001,Windows,Glass Panels,1860,2113,Windows
+2025-06-03,P001,Windows,Glass Panels,1266,1592,Windows
+2025-06-04,P001,Windows,Glass Panels,1482,1882,Windows
+2025-06-05,P001,Windows,Aluminium Frames,1614,2054,Windows
+2025-06-06,P001,Windows,Aluminium Frames,925,1068,Windows
+2025-06-07,P001,Windows,Aluminium Frames,1868,2129,Windows
+2025-06-08,P001,Windows,Aluminium Frames,1108,1418,Windows
+2025-06-09,P001,Windows,Aluminium Frames,815,1076,Windows
+2025-06-10,P001,Interiors,Tiles,1806,1955,Interiors
+2025-06-11,P001,Interiors,Tiles,712,936,Interiors
+2025-06-12,P001,Interiors,Tiles,822,1258,Interiors
+2025-06-13,P001,Interiors,Tiles,629,1051,Interiors
+2025-06-14,P001,Interiors,Tiles,1886,2130,Interiors
+2025-06-15,P001,Interiors,Paint,509,885,Interiors
+2025-06-16,P001,Interiors,Paint,962,1370,Interiors
+2025-06-17,P001,Interiors,Paint,1061,1381,Interiors
+2025-06-18,P001,Interiors,Paint,1956,2340,Interiors
+2025-06-19,P001,Interiors,Paint,830,1005,Interiors
+2025-05-01,P002,Foundation,Cement,1465,1837,Foundation
+2025-05-02,P002,Foundation,Cement,1679,1997,Foundation
+2025-05-03,P002,Foundation,Cement,1014,1355,Foundation
+2025-05-04,P002,Foundation,Cement,1538,1961,Foundation
+2025-05-05,P002,Foundation,Cement,618,939,Foundation
+2025-05-06,P002,Foundation,Steel Rods,1528,1832,Foundation
+2025-05-07,P002,Foundation,Steel Rods,737,870,Foundation
+2025-05-08,P002,Foundation,Steel Rods,1223,1505,Foundation
+2025-05-09,P002,Foundation,Steel Rods,609,897,Foundation
+2025-05-10,P002,Foundation,Steel Rods,725,1096,Foundation
+2025-05-11,P002,Structure,Cement,1422,1843,Structure
+2025-05-12,P002,Structure,Cement,772,1177,Structure
+2025-05-13,P002,Structure,Cement,1699,1856,Structure
+2025-05-14,P002,Structure,Cement,1998,2298,Structure
+2025-05-15,P002,Structure,Cement,510,971,Structure
+2025-05-16,P002,Structure,Steel Beams,1002,1337,Structure
+2025-05-17,P002,Structure,Steel Beams,668,878,Structure
+2025-05-18,P002,Structure,Steel Beams,1158,1439,Structure
+2025-05-19,P002,Structure,Steel Beams,1762,1923,Structure
+2025-05-20,P002,Structure,Steel Beams,956,1264,Structure
+2025-05-21,P002,Walls,Bricks,1249,1677,Walls
+2025-05-22,P002,Walls,Bricks,1204,1638,Walls
+2025-05-23,P002,Walls,Bricks,832,1170,Walls
+2025-05-24,P002,Walls,Bricks,1218,1507,Walls
+2025-05-25,P002,Walls,Bricks,1900,2229,Walls
+2025-05-26,P002,Walls,Plaster,627,838,Walls
+2025-05-27,P002,Walls,Plaster,1796,2173,Walls
+2025-05-28,P002,Walls,Plaster,740,1067,Walls
+2025-05-29,P002,Walls,Plaster,684,810,Walls
+2025-05-30,P002,Walls,Plaster,623,811,Walls
+2025-05-31,P002,Windows,Glass Panels,1198,1648,Windows
+2025-06-01,P002,Windows,Glass Panels,1972,2328,Windows
+2025-06-02,P002,Windows,Glass Panels,1695,2140,Windows
+2025-06-03,P002,Windows,Glass Panels,947,1401,Windows
+2025-06-04,P002,Windows,Glass Panels,975,1433,Windows
+2025-06-05,P002,Windows,Aluminium Frames,1029,1432,Windows
+2025-06-06,P002,Windows,Aluminium Frames,1415,1887,Windows
+2025-06-07,P002,Windows,Aluminium Frames,1065,1166,Windows
+2025-06-08,P002,Windows,Aluminium Frames,844,1244,Windows
+2025-06-09,P002,Windows,Aluminium Frames,1689,2142,Windows
+2025-06-10,P002,Interiors,Tiles,1662,1966,Interiors
+2025-06-11,P002,Interiors,Tiles,1750,2168,Interiors
+2025-06-12,P002,Interiors,Tiles,804,1219,Interiors
+2025-06-13,P002,Interiors,Tiles,1465,1916,Interiors
+2025-06-14,P002,Interiors,Tiles,1281,1545,Interiors
+2025-06-15,P002,Interiors,Paint,657,1091,Interiors
+2025-06-16,P002,Interiors,Paint,1380,1786,Interiors
+2025-06-17,P002,Interiors,Paint,1369,1733,Interiors
+2025-06-18,P002,Interiors,Paint,1565,1750,Interiors
+2025-06-19,P002,Interiors,Paint,1137,1244,Interiors
+2025-05-01,P003,Foundation,Cement,1941,2215,Foundation
+2025-05-02,P003,Foundation,Cement,793,1073,Foundation
+2025-05-03,P003,Foundation,Cement,730,980,Foundation
+2025-05-04,P003,Foundation,Cement,1101,1569,Foundation
+2025-05-05,P003,Foundation,Cement,1951,2360,Foundation
+2025-05-06,P003,Foundation,Steel Rods,1093,1292,Foundation
+2025-05-07,P003,Foundation,Steel Rods,1759,2184,Foundation
+2025-05-08,P003,Foundation,Steel Rods,658,792,Foundation
+2025-05-09,P003,Foundation,Steel Rods,1648,1863,Foundation
+2025-05-10,P003,Foundation,Steel Rods,1300,1615,Foundation
+2025-05-11,P003,Structure,Cement,1914,2097,Structure
+2025-05-12,P003,Structure,Cement,995,1397,Structure
+2025-05-13,P003,Structure,Cement,616,1010,Structure
+2025-05-14,P003,Structure,Cement,725,919,Structure
+2025-05-15,P003,Structure,Cement,706,1012,Structure
+2025-05-16,P003,Structure,Steel Beams,1249,1709,Structure
+2025-05-17,P003,Structure,Steel Beams,1953,2435,Structure
+2025-05-18,P003,Structure,Steel Beams,713,1031,Structure
+2025-05-19,P003,Structure,Steel Beams,875,1317,Structure
+2025-05-20,P003,Structure,Steel Beams,1075,1363,Structure
+2025-05-21,P003,Walls,Bricks,989,1476,Walls
+2025-05-22,P003,Walls,Bricks,1886,2243,Walls
+2025-05-23,P003,Walls,Bricks,841,954,Walls
+2025-05-24,P003,Walls,Bricks,1887,2176,Walls
+2025-05-25,P003,Walls,Bricks,755,886,Walls
+2025-05-26,P003,Walls,Plaster,680,1063,Walls
+2025-05-27,P003,Walls,Plaster,1233,1704,Walls
+2025-05-28,P003,Walls,Plaster,1123,1482,Walls
+2025-05-29,P003,Walls,Plaster,783,1089,Walls
+2025-05-30,P003,Walls,Plaster,1683,1839,Walls
+2025-05-31,P003,Windows,Glass Panels,1804,2245,Windows
+2025-06-01,P003,Windows,Glass Panels,926,1296,Windows
+2025-06-02,P003,Windows,Glass Panels,1344,1604,Windows
+2025-06-03,P003,Windows,Glass Panels,1904,2228,Windows
+2025-06-04,P003,Windows,Glass Panels,1364,1549,Windows
+2025-06-05,P003,Windows,Aluminium Frames,1161,1538,Windows
+2025-06-06,P003,Windows,Aluminium Frames,1445,1567,Windows
+2025-06-07,P003,Windows,Aluminium Frames,1339,1794,Windows
+2025-06-08,P003,Windows,Aluminium Frames,1585,1797,Windows
+2025-06-09,P003,Windows,Aluminium Frames,1780,2170,Windows
+2025-06-10,P003,Interiors,Tiles,678,1135,Interiors
+2025-06-11,P003,Interiors,Tiles,984,1241,Interiors
+2025-06-12,P003,Interiors,Tiles,1378,1530,Interiors
+2025-06-13,P003,Interiors,Tiles,635,862,Interiors
+2025-06-14,P003,Interiors,Tiles,1312,1500,Interiors
+2025-06-15,P003,Interiors,Paint,1701,2143,Interiors
+2025-06-16,P003,Interiors,Paint,1261,1692,Interiors
+2025-06-17,P003,Interiors,Paint,1731,2115,Interiors
+2025-06-18,P003,Interiors,Paint,912,1315,Interiors
+2025-06-19,P003,Interiors,Paint,1156,1534,Interiors
